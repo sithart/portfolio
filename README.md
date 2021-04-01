@@ -10,3 +10,9 @@
 - Bootstrap4
 - canva
 - google fonts
+
+## ToDo
+- [ ] Link navigation section
+- [ ] color schema
+- [ ] Footer
+- [ ] resume download link
