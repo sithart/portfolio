@@ -1,0 +1,26 @@
+@font-face {
+font-family: 'Trebuchet MS';
+font-style: normal;
+font-weight: normal;
+src: local('Trebuchet MS'), url('../fonts/trebuc.woff') format('woff');
+}
+
+
+@font-face {
+font-family: 'Trebuchet MS Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Trebuchet MS Italic'), url('../fonts/Trebuchet-MS-Italic.woff') format('woff');
+}
+body {
+  font-family: 'Trebuchet MS Italic';
+}
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  /* background-image: url('/img/Black and White Classy & Dark Refined Motivation _ Female Empowerment Desktop Wallpaper.png'); */
+  background-color: #cbf0e6;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
