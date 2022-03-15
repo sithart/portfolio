@@ -16,3 +16,6 @@
 - [ ] color schema
 - [ ] Footer
 - [ ] resume download link
+
+## working
+1 - https://tailwindcss.com/docs/utility-first
